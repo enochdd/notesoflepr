@@ -1,0 +1,227 @@
+/* CSS Document */
+h1 {
+	font: 22px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+
+h2 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+h3 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+h4 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+h5 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+h6 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+h7 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+h8 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+h9 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+h10 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+h11 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+h12 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+h13 {
+	font: 20px Bradley Hand, cursive;
+	font-weight: bold;
+	color: #2E8B57;
+	padding-left: 40px;
+	}
+	
+a {
+	color: #3366CC;
+	text-decoration: none;
+	}
+
+a:hover {
+	color: #3366CC;
+	text-decoration: none;
+	}
+
+#top {
+	width: 100%;
+	background-image: url(img/top.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	}
+
+#brand {
+	float: right;
+	width: 14%;
+	margin-right: 10%;
+	}
+
+#title {
+	font: 36px Snell Roundhand, cursive;
+	color: #FFE4C4;
+	line-height: 80px;
+	margin-left: 7%;
+	}
+	
+#navtop {
+	clear: both;
+	width: 100%;
+	height: 40px; 
+	padding-top: 3px;
+	background: #FFA07A;
+	-moz-opacity: 0.9;
+	opacity: 0.9;
+	filter: alpha(opacity=90);
+	}
+
+#left {
+	float: left;
+	width: 200px;
+	height: 500px; 
+	background: #ffffff;
+	}
+
+#main {
+	float: right;
+	width: 800px; 
+	}
+
+#middle {
+	position: relative; 
+	width: 1000px;
+	left: 50%;
+    margin-left: -500px;
+	}
+
+#bottom {
+	width: 85%;
+	height: 120px;
+	padding-left: 15%;
+	background-color: #90EE90;
+	clear: both;
+}
+
+.toplist {
+	text-align: center;
+	margin: 0px;
+	padding: 4px;
+	list-style: none;
+	}
+	.toplist li {
+	display: inline;
+	font: 22px Bradley Hand, cursive;
+	color: #FFFFFF;
+	padding: 20px;
+	}
+	.toplist li:hover {
+	color: #000;
+	cursor: pointer;
+}
+
+.leftlist {
+	text-align: left;
+	margin: 0px;
+	padding-left: 20px;
+	list-style: none;
+	}
+	.leftlist li {
+	font: 22px Bradley Hand, cursive;
+	color: #2E8B57;
+	padding-left: 5px;
+	}
+	.leftlist li:hover {
+	font: 23px Bradley Hand, cursive;
+	cursor: pointer;
+}
+
+.submenu {
+	font: 20px Bradley Hand, cursive;
+	font-weight:bold;
+	color: #000000;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+.main {
+	font: 16px Bradley Hand, cursive;
+	color: #000;
+	line-height: 22px;
+	margin: 10px;
+	text-align: justify;
+	text-indent: 30px;
+}
+
+.rys {
+	width: 600px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	padding: 5px;
+}
+
+.subottom {
+	float: left;
+	width: 25%;
+	height: 80px;
+	text-align: left;
+	font: 14px Bradley Hand, cursive;
+	color: #000000;
+	line-height: 18px;
+	margin: 20px;
+}
